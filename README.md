@@ -1,2 +1,2 @@
 # College
-Kumpulan C++ kode 
+This repository was created as cloud for my college projects
